@@ -1,10 +1,14 @@
 # cs50-pset1-cash
 Cs50 Pset1 Cash
+
+
+
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h> 
 int main(void)
- {
+{
   //Creating a variable for change
   float f;
   int coins;
